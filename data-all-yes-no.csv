@@ -1,0 +1,506 @@
+,Business Name,Business Type,facing main road,MainRoadEntry,CornerShopLot,Ampleparking,LRT,School,Hospital,Housing,Hotel,24 Hrs Convenience ,Bakeri Shop,Bookshop,Car Accessories ,Clinic,Fitness Centre,Kitchen Cabinet,Laundry,Medical Shop,Motorcycle  Shop,Music,Office,Pajak,Pets,Printing,Travel,Wellness Centre,Bank,CarWorkshop,convenience shop,FashionClothing,FastFood,Fruits Shop,Hardware,Restaurant,Learning,mamak stall,Saloon,Telecommunication,Work Agency,Optical
+1,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+2,Kedai serbaneka Big Save,Convenience Shop,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+3,Pasaraya CTM,Convenience Shop,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+4,Pusat Servis Kereta S8 Auto Skilled Service,Car Workshop,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+5,Pusat pakaian GG Fashion,Fashion Clothing,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+6,Kedai alat telekomunikasi Eastern DIGI (Maxis Banner),Telecommunication,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+7,"Kedai alat telekomunikasi Cosmotrade Resources (Umobile banner, Celcom banner)",Telecommunication,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+8,Pusat Tuisyen minda wawasan,Learning,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+9,Pusat Seni Nineteen Creative Centre,Learning,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+10,Salun Sook Fun,Saloon,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+11,PusatTuisyen 101 classroom,Learning,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+12,kedai buah-buahan Thai Cheng Food Trading,Fruits Shop,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+13,Kedai gunting rambut Mudah Rezki,Saloon,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+14,Pusat Tuisyen Kembang,Learning,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+15,Pusat Tuisyen mega utama,Learning,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+16,Pusat tuisyen junior purple cow,Learning,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+17,"Pudat motivasi,little highbrow education centre",Learning,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+18,Kedai gelas aluminium,Hardware,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+19,Refleksologi kaki New Diamond,Wellness Centre,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+20,Kedai Kek & roti Butter Sweet,Bakeri Shop,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+21,restoren bubur Tian Zai Xin,Restaurant,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+22,agency pekerjaan Medo Sdn Bhd,Work Agency,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+23,Klinik Raya 24hrs (Dr Jugdaiv Singh),Clinic,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+24,kedai pajak SK Wong,Pajak,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+25,Gerai burger,Specialized shop,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+26,Salun Rambut Ennie Hair Saloon,Saloon,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no
+27,99 Speedmart,Convenience Shop,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+28,Klinik Pergigian Rizqi,Clinic,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+29,Pusat Caf? Cyber Legend,CyberCafe,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+30,City Gym,Fitness Centre,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+31,Anu Sree Sai Textile,Fashion Clothing,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+32,Pejabat Urusan M&T Construction,Office,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+33,Tea Element Enterprise,cafe,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+34,Kedai Runcit Tanitooluwa Ventures,Convenience Shop,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+35,Pusat Aksessori kereta M-Screen,Car Accessories ,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+36,Hup Seng Auto Tyres Service ,Car Workshop,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+37,Ar Rahnu Pajak Gadai,Pajak,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+38,Kelas Tuisyen Cikgu Maryam,Learning,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+39,Kedai Telekomunikasi EWM Mobil Enterprise,Telecommunication,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+40,Dobi layan diri Wash & Save,Laundry,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+41,Pusat Tuisyen Jambatan Ilmu,Learning,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+42,Car Makeup & Accessories Centre,Car Accessories ,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+43,JM Pets & Aquirium,Pets,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+44,Pusat Tuisyen Meteor,Learning,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+45,Kedai alat ganti kereta Hing Ik Auto Supply ,Car Accessories ,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+46,Klinik Sofea,Clinic,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+47,Warrisons Wound Care Centre,Clinic,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+48,Nurida nasi kukus,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+49,New Soon Long care care,Car Workshop,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+50,Lucky Start CarAccessories,Car Accessories ,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+51,Maz Active Motor Service Centre,Car Workshop,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+52,Marimba Wine Shop,cafe,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+53,Kedai Gunting Rambut Chandra,Saloon,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+54,Pejabat Urusan SK Tech,Office,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+55,Pejabat Urusan P E Setia Contruction,Office,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+56,Jalapa De Beauty,Saloon,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+57,Pejabat Urusan GNT,Office,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+58,Pejabat Urusan SCADATECH,Office,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+59,Pusat Perkembanagn Minda Elit Cemerlang,Learning,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+60,Pejaban Urusan Professional Integrated matrix,Office,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+61,Restoran Tomyam,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+62,Restoran  Chinese ,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+63,Resoren Al Farhan,Mamak Stall,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+64,TRB Automobile,Car Workshop,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+65,Detailer AutoSPA,Car Accessories ,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no
+66,99 Speedmart,Convenience Shop,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+67,Restoran Bumbu Utara,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+68,Kedai Runcit Deshi Point Ent,Convenience Shop,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+69,Restoran Guhrubas,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+70,Pasaraya CTG,Convenience Shop,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+71,Restoren Ah Song,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+72,SHT Paint & Hardware ,Hardware,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+73,Klinik Adzmi,Clinic,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+74,Perniagaan Logam Soon Hong,Hardware,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+75,MJ Auto Service Pusat Servis tayar ,Car Workshop,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no
+76,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+77,7 Eleven,24 Hrs Convenience ,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+78,Restoren Lada,Restaurant,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+79,Pejabat Urusan Crown Heart Network,Office,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+80,Pejabat Urusan EAGLES GROUP,Office,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+81,Kedai Ubat Mei Kok,Medical Shop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+82,Amazon Internet Caf? ,CyberCafe,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+83,Pusat Tuisyen ERA,Learning,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+84,Kedai Ubat dan Runcit Wei Chun,Medical Shop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+85,TMB hardware,Hardware,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+86,be Farmasi,Medical Shop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+87,Restoren Al Nainas Corner ,Mamak Stall,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no
+88,99 Speedmart,Convenience Shop,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+89,KENNON Car ,Car Accessories ,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+90,Restoran Wagon Wheel,Restaurant,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+91,Bank Rakyat,Bank,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+92,SLE Home Furniture ,Furniture,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+93,VO tyre Service,Car Workshop,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+94,Rainbow World,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+95,JW Boutique,Fashion Clothing,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+96,Pejabat Urusan TRAZONE Resources,Office,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+97,Klinik REMEDIC,Clinic,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+98,Seremban Kopitiam,cafe,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+99,Kedai Buah Leong Mey Ent,Fruits Shop,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no
+100,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+101,Petaling Utama Motor,Motorcycle  Shop,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+102,Farmasi Good Medic,Medical Shop,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+103,Pusat Tuisyen Terbagus,Learning,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+104,Net World Caf?,CyberCafe,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+105,CIMB BANK,Bank,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+106,Klinik Chew dan rakan rakan,Clinic,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+107,Pharmacy Some Tuan ,Medical Shop,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+108,T-Line car Auto,Car Workshop,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+109,Restoran Tai Kee,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no
+110,99 Speedmart,Convenience Shop,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+111,METRO Driving Academy,Driving Academy,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+112,JP Digital & Inkjet Printing Centre,Printing,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+113,Talk Bubble Tea,cafe,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+114,Kedai Kain YS,Fashion Clothing,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+115,S SEVEN Collection,Fashion Clothing,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+116,Butik AVON Jue Allure,Stokis,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+117,AIRIST Kosmetics,Wellness Centre,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+118,7 Eleven,24 Hrs Convenience ,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+119,Restoran Selera Nur Qaseh,Restaurant,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+120,99 Speedmart,Convenience Shop,yes,yes,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+121,Restoran AYZAS Nasi Kandar,Mamak Stall,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+122,ARR Maju Agensi Pekerjaan,Work Agency,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+123,Sincerely By Us Boutique,Fashion Clothing,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+124,RHB Bank,Bank,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+125,Pizza Hut,Fast Food,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+126,Aleesya Coffee,cafe,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+127,Klinik Pergigian Nurul Adha,Dentist,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+128,The Punch Car Accessories,Car Accessories ,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+129,MaxValue Store,Convenience Shop,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+130,Klinik Ajjazrah,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+131,Klinik Mediviron,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+132,Pusat Perabot,Furniture,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+133,Farmasi CoSWAY,Medical Shop,yes,yes,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no
+134,99 Speedmart,Convenience Shop,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+135,HYDRO TURF Hyroseeding,Specialized shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+136,Pejabat Urusan Semarak Media,Office,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+137,Restoran Alina,Restaurant,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+138,Kedai Dobi T & S Laundry,Laundry,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+139,Az Zain Produk Halal,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+140,Bukit Saga Car Wash,Car Wash,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+141,Restoran An Najihin,Restaurant,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+142,County Laundry,Laundry,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+143,Kedai Gunting Rambut AKK,Saloon,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+144,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+145,G Force Gym & Fitness Centre,Fitness Centre,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+146,Pusat Tuisyen Hasrat Jaya UCMAS,Learning,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+147,Restoran Lotus Curry House,Mamak Stall,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+148,Pejabat Urusan Sky View,Office,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+149,Mama Kitchen,Kitchen Cabinet,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+150,SINAR Kedai Lampu,Electrical,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+151,NSK Motor Sales,Motorcycle  Shop,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+152,Pusat Muzik Plinkety,Music,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+153,LAVENDER Kitchen,Kitchen Cabinet,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+154,Restoran Masakan Selatan ,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+155,Dobi Bubbles,Laundry,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+156,Klinik Medi-i,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+157,Erul CatSHOP,Pets,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+158,World Planet Badminton,Sports,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+159,Klinik Pakar Wanita Bersalin Subang Permai,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+160,Poliklinik Family,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no
+161,99 Speedmart,Convenience Shop,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+162,Olio Folio,Fashion Clothing,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+163,Benefit Concept,Kitchen Cabinet,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+164,Multicare Pharmacy,Medical Shop,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+165,buttonliew,Fashion Clothing,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+166,Petsmore,Pets,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+167,TSH Power Hardware,Hardware,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+168,Butik Maple,Fashion Clothing,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+169,Topcom Cellular,Telecommunication,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+170,Restoran Monstar in the Haus,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+171,Le Miz Hair Studio,Saloon,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+172,Restoran Bak Ku The Klang,Restaurant,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+173,PusatKecantikan Reveal,Saloon,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+174,SANDS Mandarin Spa & Wellness,Wellness Centre,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+175,Klinik Haiwan Kota Damansara,Pets Clinic,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+176,Creator Saloon,Saloon,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+177,Wenxin Health Centre,Wellness Centre,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+178,MAYBANK,Bank,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+179,Burger King,Fast Food,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+180,Nasi Kandar Padang Kota,Mamak Stall,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no
+181,99 Speedmart,Convenience Shop,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+182,Pose Dance Academy,Dance,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+183,Restoran Masakan Indonesia D Bakul,Restaurant,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+184,Salun Rambut Chase Up,Saloon,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+185,PejabatUrusan Gano Excel,Office,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+186,Klinik Pergigian Subang,Dentist,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+187,Pusat Barangan Electric Chee Sang,Electrical,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+188,Restoran So Sate To,Restaurant,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+189,Pusat tuisten Omega Jaya,Learning,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+190,Pusat Aksessori dan Hawa Dingin Kereta Just Ahead,Car Accessories ,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+191,Klinik Pakar Kanak-kanak Chye,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+192,Amante nail spa,Wellness Centre,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+193,Pusat Pakar mata USJ ,Clinic,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+194,Bank Islam,Bank,yes,yes,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+195,99 Speedmart,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+196,Tukang Jahit Sempurna,Tailor,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+197,Pendandan Rambut Ah Yoke,Saloon,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+198,Niagara Pasar Runcit,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+199,Luxor Stokis,Stokis,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+200,Kedai Percetakan DarnLukis,Printing,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+201,Syarikat Ganding Teknik,Weighing,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+202,Nalanda Budhist Society,Religion,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+203,HB Hair Saloon,Saloon,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+204,H&W Fashion Jahit,Tailor,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+205,Pengedar Cat Eng Ming,Hardware,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+206,High Tec Motor,Motorcycle  Shop,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+207,AK Speed Accessories,Car Accessories ,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+208,Klinik Mani,Clinic,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+209,Kedai Gambar YS,Photo,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no
+210,Restoran Al Hilal,Mamak Stall,yes,no,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,no,no,no
+211,99 Speedmart,Convenience Shop,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no
+212,Kedai Alat Telekomunikasi AMS,Telecommunication,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no
+213,Kedai Bunga Krishna,Flower,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no
+214,PusatFesyen BB Kim Wah,Fashion Clothing,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no
+215,Restoran Wak Rom,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no
+216,99 Speedmart,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+217,Pusat Terapi Thai Traditional Woon King,Wellness Centre,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+218,Crack House Comedy Club,Specialized shop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+219,Restoran dan Bar Deutsches Gasthaus ,Restaurant,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+220,Hong Leong Bank,Bank,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+221,Continental Tyre Service Win Ting,Car Workshop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+222,Boat House Cave & Seller,cafe,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+223,"Tom, Dick & Harry Restoran",Restaurant,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+224,Home & Away Restoren ,Restaurant,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+225,Centre Circuit Music,Music,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+226,Pusat Servis Kereta SIM,Car Workshop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+227,Artisan Roast Coffee,cafe,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+228,Maybank,Bank,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+229,Restoran OK,Restaurant,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+230,7 Eleven,24 Hrs Convenience ,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+231,Restoran Al Bidayah,Mamak Stall,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no
+232,99 Speedmart,Convenience Shop,yes,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+233,Xinzhi Books,Bookshop,yes,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+234,Hotel Royale Bintang,Hotel,yes,yes,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+235,Kedai Makan Tong Kwoon Chye,Restaurant,yes,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+236,8 Days Saloon,Saloon,yes,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+237,Hotel Emerald,Hotel,yes,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+238,Kedai Photostate BORMAS,Printing,yes,yes,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no
+239,99 Speedmart,Convenience Shop,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+240,Public Bank,Bank,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+241,Restaurant Xin Hai Yan,Restaurant,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+242,Uptown Leather and Souvenier,Fashion Clothing,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+243,Agensi Pelancongan Vic-Aire,Travel,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+244,Hotel Beltif,Hotel,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+245,Pusat Istirehat Sweet Lounge,cafe,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+246,Salun  Persolekan Qilimette,Saloon,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+247,7 Eleven,24 Hrs Convenience ,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+248,Star Lady Pub & Lounge,cafe,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+249,Pusat Kecantikan WSL,Saloon,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+250,KK Supermart,24 Hrs Convenience ,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+251,Pub dan Kareoke Sabai Sabai,cafe,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+252,Ali Food Corner,Mamak Stall,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+253,Hotel 88 Inn,Hotel,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+254,Restoran Hei Lai Ton,Restaurant,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no
+255,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+256,restoran Leeyas Corner,Mamak Stall,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+257,Akhbar Harian China Press Berhad,Office,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+258,Restoran Muhibbah ,Mamak Stall,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+259,Pusat Latihan YOGA,Wellness Centre,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+260,Klinik SEGARA,Clinic,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+261,Hauli Resource Ent,Telecommunication,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+262,Ban Guan Thye Ent Motor,Motorcycle  Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+263,SCM Workshop Motor,Motorcycle  Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+264,Tukang Jahit Wai Mun,Tailor,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+265,Kedai Cenderamata MH Global,Specialized shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+266,Poliklinik Bhullar Dan Rakan-Rakan,Clinic,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no
+267,99 Speedmart,Convenience Shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+268,7 Eleven,24 Hrs Convenience ,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+269,Hong Leong Bank,Bank,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+270,Masenang Tours Travel Sdn Bhd,Travel,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+271,Devis Caf?,cafe,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+272,Ten Ten Mini Store,Convenience Shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+273,Eco Health and Wellness,Wellness Centre,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+274,New Lemon Grass Reflexology,Wellness Centre,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+275,Restoran takwaa makanan islam,Mamak Stall,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+276,Agensi Pekerjaan Soyo Sdn Bhd,Work Agency,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+277,Orange,24 Hrs Convenience ,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+278,KK Toys,Toys Shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+279,Air World Travel & Tours Sdn Bhd,Travel,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,no
+280,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no
+281,Kedai Motosikal SNG Sang Motor,Motorcycle  Shop,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no
+282,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+283,Restoran Al Fariz Maju,Mamak Stall,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+284,Style Cut Inn,Saloon,no,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+285,Crazetech IT Solution,IT Shop,no,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+286,Restoran Mesra Kelana,Restaurant,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+287,Kenzo Pendandan rambut,Saloon,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+288,Agensi Pekerjaan Global Workforce,Work Agency,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+289,Restoran Makanan Cina Muslim Mohd Chan Abdullah,Restaurant,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+290,Emmanuel Products (Pengedar Produck Herba dan Makanan Kesihatan),Wellness Centre,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+291,Restoran Periuk Belanga,Restaurant,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+292,Pejabat Urusan NWP Holdings Berhad,Office,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+293,Sweet Garden Vegeterian Restaurant,Restaurant,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+294,Pusat kecantikan Priddy Face Beauty & Bridal Studio,Saloon,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+295,Pembekal Bahan Bakeri Dapur Ria,Bakeri Shop,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+296,MB Tyre& Auto Services (SS6) Sdn Bhd,Car Workshop,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+297,Nasi Lemak Cikgu,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+298,Azza Food Paradise,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+299,Waihenn Car Accessories ,Car Accessories ,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+300,Wisdom Merge Holidays,Travel,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+301,Tupperware Brands,Stokis,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+302,CWA ,Office,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+303,MB Star Dialisis,Wellness Centre,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+304,Klinik Veterinar Kelana Jaya,Vet Clinic,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+305,Pump On The Go,Maternal,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+306,Nithya Hair Dressing,Saloon,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+307,Dstall Corner,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+308,Klinik Uzma,Clinic,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+309,YS Ziyong Car Auto,Car Workshop,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+310,Bubbles Laundry,Laundry,yes,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+311,Sunrider,Wellness Centre,yes,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+312,Restoran Jemari,Restaurant,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+313,Andalusia Travel,Travel,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+314,Mr Clean,Laundry,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+315,Tutti Frutty,cafe,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+316,Pusat Tuisyen mahajaya,Learning,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+317,Bank Islam,Bank,yes,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+318,My One Shop,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+319,RHB Islamic Bank,Bank,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+320,Restoran Kelana Jaya,Restaurant,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+321,Klinik Pergigian ADL,Dentist,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+322,Subway,Fast Food,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+323,JM Briani House,Mamak Stall,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+324,Tukang Jahit Chera Gallaty,Tailor,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+325,Hong Leong Bank,Bank,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+326,Restoran Padang Sari Ratu PrimaPrima,Restaurant,yes,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+327,Al Rajhi  Bank,Bank,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no
+328,99 Speedmart,Convenience Shop,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no
+329,Pusat Latihan Tan Mental Arithmetic,Learning,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no
+330,Kedai Makan Dan Minuman Ty Siew,Restaurant,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no
+331,Pusat Jualan Cosway,Stokis,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no
+332,Pasaraya Gan,Convenience Shop,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no
+333,Klinik Chin & Surgeri,Clinic,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no
+334,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+335,Gafis Sdn Bhd Acson Air Conditioner,Office,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+336,Pondok Satay,Restaurant,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+337,Kedai Lampu Surge Electric Sdn Bhd,Electrical,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+338,Hong Lek Trading Hardware,Hardware,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+339,Bengkel Kereta Pro Auto,Car Workshop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+340,KH Aquatech Aquarium,Pets,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+341,UST Auto Parts,Car Accessories ,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+342,Kedai Dobi Syaz,Laundry,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+343,Khalifah Bistro,Restaurant,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+344,Rash Two Sum barber,Saloon,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+345,Wai Kwok Trading Electrical,Electrical,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+346,7 Eleven,24 Hrs Convenience ,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+347,Restoran Shah Maju,Mamak Stall,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+348,Gxi Car Audio &  Auto Aceessories,Car Accessories ,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+349,Loong Shen Hardware,Hardware,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+350,Kedai Optic Lensman,Optical,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+351,Top Best Unises,Saloon,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+352,Poliklinic Krishna,Clinic,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+353,Hair Expression,Saloon,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+354,KK Supermart,24 Hrs Convenience ,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+355,Klinik Metro Medics,Clinic,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,yes,yes,no,no,yes
+356,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+357,Pejabat Ahli Parlimen,Office,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+358,Car Accessories PA,Car Accessories ,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+359,Salun Cut & Blow,Saloon,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+360,Pusat Tuisyen Akademik ,Learning,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+361,PasarMini Ap Essjay,Convenience Shop,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+362,Restoran Penang Tropicana,Restaurant,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+363,Penilai Ejen Hartanah Raine & Horne,Real Estate ,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+364,Pejabaturusan X-Scan,Office,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+365,Medicine Point,Medical Shop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+366,A Top Hair Dressing,Saloon,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+367,Lavish Laundry,Laundry,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+368,Kumon ,Learning,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+369,Pusat Tuisyen Kuantum,Learning,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+370,Agen Penghantaran PF,Postal Service,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+371,Edeton Ent. Kedai buku Sekolah,Bookshop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+372,Ty Auto Cool Care,Car Workshop,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no
+373,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+374,CWA ,Office,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+375,PH Hardware Trading,Hardware,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+376,Xuan Saloon,Saloon,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+377,Superior Pembekal alat tulis dan seni lukis,Stationary,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+378,SAG Accessories,Specialized shop,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+379,AusMed Pharmacy,Medical Shop,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+380,JW Car Accessories,Car Accessories ,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+381,Klinkik RS Khan,Clinic,yes,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+382,PJU Tyre & Services,Car Workshop,yes,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+383,Pusat Perubatan Cina,Wellness Centre,yes,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+384,HCS Tyre Battery Trading Services,Car Workshop,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+385,Reapfield ,Real Estate ,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+386,The Printing Dudes,Fashion Clothing,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+387,Elegence Spa,Wellness Centre,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+388,The Guitar Store,Music,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+389,Restoran Chemat Ayam Kampung Publika,Restaurant,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+390,Kedai Gunting Rambut Bunga Raya,Saloon,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+391,Thai Relax Reflexology,Wellness Centre,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+392,Restoran Lada Hijau,Restaurant,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+393,Klinik Medivron,Clinic,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+394,Csor Hair Salon,Saloon,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+395,Restoran Baloh,Restaurant,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+396,Soo Dental and Surgery,Dentist,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+397,Puteri Dobi,Laundry,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+398,David Specialist Orthodontic,Dentist,yes,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+399,Nasi kandar Salam,Mamak Stall,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+400,Caf? Black & White Kopitiam,Restaurant,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+401,Aurora Butique,Fashion Clothing,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+402,No Limit Gym & Fitness Centre,Fitness Centre,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+403,Kedai Kek Berry,Bakeri Shop,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+404,Satay Warisan,Restaurant,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+405,Grato Cafeteria,cafe,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+406,De Oceana Beauty,Wellness Centre,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+407,Presintial Aroma Therapy,Wellness Centre,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+408,Nitro Granite Tile,Specialized shop,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+409,Prowork Auto Services,Car Workshop,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+410,Atlas BX Battery,Car Accessories ,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+411,TRICOM Media Suppliers,Stationary,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+412,FYT Acupuntur,Wellness Centre,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+413,Kim's Laundry,Laundry,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+414,Ivan Soon Hair Studio,Saloon,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+415,Library Caf?,cafe,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+416,Klinik Baiduri,Clinic,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+417,Bricks Coffee,cafe,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+418,Habi  + Art Internal Design,Specialized shop,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+419,Restaurant 9999,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+420,Glitter Car Wash,Car Wash,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+421,Advantage Automobile,Car Workshop,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+422,Restaurant 8888,Restaurant,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+423,Silverspeed Auto,Car Workshop,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+424,Dtouch Health & Beauty Centre,Wellness Centre,no,no,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+425,PWS Electrical,Electrical,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+426,Viva Homes Realty,Real Estate ,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+427,Pusat Kecantikan Qaisara,Wellness Centre,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no
+428,99 Speedmart,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+429,Brixten Academy,Learning,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+430,The BULB COFFEE ,cafe,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+431,Kedai Optic TonEye,Optical,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+432,Vital Years,Learning,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+433,Restoran  Carnaval Churrascaria ,Restaurant,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+434,Pejabat Pengurusan Goshen,Office,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+435,Star Optical house,Optical,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+436,Restourant Goon Wah Claypot,Restaurant,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+437,Secret Recipe,Restaurant,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+438,Restaurant Mixed Rice,Restaurant,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+439,Restaurant Nyonya Cuisine,Restaurant,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+440,Huper Optic CarTint,Specialized shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+441,Pusat Urut Kaki Yoga Life,Wellness Centre,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+442,Zazen Health Solution,Wellness Centre,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+443,Tenaga Kimia Sdn Bhd,Specialized shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+444,Kafe dan Restoren Home & Away,Restaurant,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+445,Alpha Car Auto Centre,Car Workshop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+446,PejabatPengurusan GSC Cinema,Office,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+447,7 Eleven,24 Hrs Convenience ,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+448,Pizza Hut,Fast Food,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+449,New Sound Hearing Helathcare,Specialized shop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+450,New Restaurant Ipoh Chicken Rice,Restaurant,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+451,Piusat Tuisyen Sinergi,Learning,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+452,Restaurant New Peng Wah,Restaurant,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+453,Restoran Syed Abu,Mamak Stall,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+454,English Mental Development,Learning,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+455,Kedai Optic Vfocus,Optical,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+456,Cambridge Optometri,Optical,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+457,Figureline Salun Kecantikan,Saloon,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+458,Reliance Agensi Pelancongan,Travel,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+459,Pusat Tuisyen Cerdas Pelangi,Learning,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+460,Second Sunday Caf?,cafe,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+461,KK Supermart,24 Hrs Convenience ,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+462,POS Malaysia,Postal Service,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+463,Farmasi Sibu,Medical Shop,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+464,Shadeline Trading Pakar Lampu & Kesenian batu,Specialized shop,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+465,Klinik Kanak2 Chan,Clinic,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+466,Urutan Traditional Ming Men,Wellness Centre,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+467,First D?cor,Interior Design,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+468,Restoran OBean,Restaurant,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+469,Kafe Sister Dessert,cafe,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+470,Eye Level Training,Learning,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+471,Restoran Jin Xuan Hong Kong,Restaurant,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+472,Maybank Islamic,Bank,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes
+473,99 Speedmart,Convenience Shop,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+474,Kedai Photo Megah jaya,Photo,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+475,Pendandan Rambut Hu Dea,Saloon,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+476,Lucky Optical Centre,Optical,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+477,Top Store Enterprise,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+478,Win Cut Unisex Saloon,Saloon,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+479,LK Macam2 Enterprise,Convenience Shop,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+480,AK Boys HairCut,Saloon,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+481,Ginmeitick Telecommunication,Telecommunication,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+482,Speek Communication ,Telecommunication,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+483,7 Eleven,24 Hrs Convenience ,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+484,Goodcity Auto Sdn Bhd,Car Accessories ,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+485,Hong Leong Bank,Bank,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+486,Farmasi Good Medic,Medical Shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+487,Kedai Kasut Lensen,Fashion Clothing,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+488,Pejabat Urusan Surplus Way Solution,Office,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+489,Color Studio Stationary,Stationary,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+490,Kedai Agambar IQ Digital Photo,Photo,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+491,Ipoint Avenue,CyberCafe,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+492,World task Telecommunication,Telecommunication,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+493,Klinik Ilham Taming Jaya,Clinic,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+494,Fookuang Vegeterian Restaurant,Restaurant,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+495,Restoran Ming Hua,Restaurant,no,no,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+496,RHB Islamic Bank,Bank,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+497,Pasaraya Shin Hai,Convenience Shop,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+498,Tasneem International Danaryl,Postal Service,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+499,Poliklinik & Surgery Jaswant,Clinic,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+500,Chia Hwa Seng Electrical,Electrical,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+501,IME Pengurup Wang,Money Exchange,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+502,NewJaya Supermarket,Convenience Shop,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+503,Sini Dental Surgery,Dentist,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+504,Beng Tat Hardware,Hardware,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
+505,Restoran Foh Kee,Restaurant,no,no,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes
